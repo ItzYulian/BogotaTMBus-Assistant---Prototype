@@ -1,0 +1,30 @@
+{
+  "name": "bogota-tm-assistant---prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzYulian/BogotaTMBus-Assistant---Prototype.git"
+  },
+  "author": "Itz_Yulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzYulian/BogotaTMBus-Assistant---Prototype/issues"
+  },
+  "homepage": "https://github.com/ItzYulian/BogotaTMBus-Assistant---Prototype#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "@napi-rs/canvas": "^0.1.23",
+    "discord-api-types": "^0.35.0",
+    "discord-canvas-spanish": "^1.0.1",
+    "discord.js": "^13.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
